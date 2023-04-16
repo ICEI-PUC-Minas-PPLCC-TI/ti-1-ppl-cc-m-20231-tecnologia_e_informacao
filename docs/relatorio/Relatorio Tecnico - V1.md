@@ -74,11 +74,7 @@ Nosso público alvo serão, principalemnte, os idosos, porém, outros grupos com
 
 # Especificações do Projeto
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Apresente uma visão geral do que será abordado nesta parte do
-> documento, enumerando as técnicas e/ou ferramentas utilizadas para
-> realizar a especificações do projeto
+Neste projeto, serão usados widgets internos criados pelos desenvolvedores para complementar a tela inicial do app, seja com alarmes, anotações, horários, listas, entre outros.
 
 ## Personas, Empatia e Proposta de Valor
 
