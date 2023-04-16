@@ -119,7 +119,7 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|IDOSO               | Registrar minhas tarefas           | Não esquecer de fazê-las               |
+|IDOSO               | Registrar minhas tarefas, fazer ligações e tomar meus remédios          | Não esquecer de fazê-las               |
 |MÉDICO              | Preescrever remédios               | Cuidar melhor dos meus pacientes       |
 |CUIDADOR            | Cuidar do Idoso                    | Deixá-lo feliz e confortável           |
 
@@ -132,34 +132,17 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
 |RF-002| Permitir que o usuário adicione lembretes | ALTA |
 |RF-003| Permitir que o usuário adicione contator na tela inicial | ALTA |
+|RF-004| Aumentar o tamanho dos botões | MÉDIA |
+|RF-005| Ajustar ícones para deixá-los auto explicativos | MÉDIA |
 
 ### Requisitos não Funcionais
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
+|RNF-001| Os widgets devem aparecer na tela inicial | ALTA | 
+|RNF-002| Os widgets devem ser responsivos e atualizados em tempo real no caso de horários | MÉDIA | 
+|RNF-003| As notícias devem ser atualizadas a cada 5 minutos | BAIXA |
 
-> Com base nas Histórias de Usuário, enumere os requisitos da sua
-> solução. Classifique esses requisitos em dois grupos:
->
-> - [Requisitos Funcionais (RF)](https://pt.wikipedia.org/wiki/Requisito_funcional):
->   correspondem a uma funcionalidade que deve estar presente na
->   plataforma (ex: cadastro de usuário).
->
-> - [Requisitos Não Funcionais (RNF)](https://pt.wikipedia.org/wiki/Requisito_n%C3%A3o_funcional):
->   correspondem a uma característica técnica, seja de usabilidade,
->   desempenho, confiabilidade, segurança ou outro (ex: suporte a
->   dispositivos iOS e Android).
->
-> Lembre-se que cada requisito deve corresponder à uma e somente uma
-> característica alvo da sua solução. Além disso, certifique-se de que
-> todos os aspectos capturados nas Histórias de Usuário foram cobertos.
-> 
-> **Links Úteis**:
-> 
-> - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
-> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
 
 
 ## Restrições
@@ -168,16 +151,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 |ID| Restrição                                             |
 |--|-------------------------------------------------------|
-|01| O projeto deverá ser entregue até o final do semestre |
-|02| Não pode ser desenvolvido um módulo de backend        |
-
-
-> Enumere as restrições à sua solução. Lembre-se de que as restrições
-> geralmente limitam a solução candidata.
-> 
-> **Links Úteis**:
-> - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
-> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
+|01| O app só poderá ser acessado em aparelhos móveis      |
 
 
 # Projeto de Interface
