@@ -167,13 +167,13 @@ O app terá uma tela inicial simples, onde a partir dela o usuário deve adicion
 ## Wireframes
 
 
-> ![Exemplo de Wireframe](images/TELA1)
-> ![Exemplo de Wireframe](images/TELA2)
-> ![Exemplo de Wireframe](images/TELA3)
-> ![Exemplo de Wireframe](images/TELA4)
-> ![Exemplo de Wireframe](images/TELA5)
-> ![Exemplo de Wireframe](images/TELA6)
-> ![Exemplo de Wireframe](images/TELA7)
+> ![Exemplo de Wireframe](images/TELA1.png)
+> ![Exemplo de Wireframe](images/TELA2.png)
+> ![Exemplo de Wireframe](images/TELA3.png)
+> ![Exemplo de Wireframe](images/TELA4.png)
+> ![Exemplo de Wireframe](images/TELA5.png)
+> ![Exemplo de Wireframe](images/TELA6.png)
+> ![Exemplo de Wireframe](images/TELA7.png)
 
 
 
