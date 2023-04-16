@@ -1,7 +1,7 @@
 # Informações do Projeto
 `TÍTULO DO PROJETO`  
 
-HELP.ME WIDGET
+HELP.ME
 
 `CURSO` 
 
