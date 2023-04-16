@@ -166,7 +166,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 ## User Flow
 
 
-> ![Exemplo de UserFlow](images/User Flow Template.jpg)
+> ![Exemplo de UserFlow](images/userflow.jpg)
 
 
 ## Wireframes
