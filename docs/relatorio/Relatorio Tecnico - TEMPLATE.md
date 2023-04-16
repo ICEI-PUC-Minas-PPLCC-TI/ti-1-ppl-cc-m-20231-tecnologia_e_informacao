@@ -205,7 +205,7 @@ Todas as etapas do processo de design thinking foram feitas por todo o grupo em 
 |-----------|-------------------------|---------------|
 |Processo de Design Thinkgin  | Miro | https://miro.com/app/board/uXjVMYDaO0I=/ | 
 |Repositório de código | GitHub | https://github.com/ICEI-PUC-Minas-PPLCC-TI/ti-1-ppl-cc-m-20231-tecnologia_e_informacao | 
-|Protótipo Interativo | MavelApp ou Figma | https://figma.com/XXXXXXX | 
+|Protótipo Interativo | MavelApp  | https://marvelapp.com/prototype/198ih509 | 
 
 
 ## Controle de Versão
