@@ -190,10 +190,10 @@ A metodologia utilizada foi o processo de design thinking, onde primeiramente fo
 
 ## Divisão de Papéis
 
-Powerpoint: Rafael Ganascini de Moura
-Relatório: Diego Pereira Maia
-Wireframe e Userflow: Erivaldo Gelson da Rocha João
-Apreesentação: Tomaz e Eduardo Assumpcao Spinelli
+> - Powerpoint: Rafael Ganascini de Moura
+> - Relatório: Diego Pereira Maia
+> - Wireframe e Userflow: Erivaldo Gelson da Rocha João
+> - Apreesentação: Tomaz e Eduardo Assumpcao Spinelli
 
 
 Todas as etapas do processo de design thinking foram feitas por todo o grupo em conjunto.
