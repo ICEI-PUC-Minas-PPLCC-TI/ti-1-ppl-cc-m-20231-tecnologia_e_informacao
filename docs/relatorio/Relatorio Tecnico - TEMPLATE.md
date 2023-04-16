@@ -15,7 +15,7 @@ CIÊNCIAS DA COMPUTAÇÃO
 > - Diego Pereira Maia
 > - Tomás
 > - Erivaldo Gelson da Rocha João
-> - Eduardo Spinelli
+> - Eduardo Assumpcao Spinelli
 
 
 # Estrutura do Documento
@@ -190,13 +190,13 @@ A metodologia utilizada foi o processo de design thinking, onde primeiramente fo
 
 ## Divisão de Papéis
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Powerpoint: Rafael Ganascini de Moura
+Relatório: Diego Pereira Maia
+Wireframe e Userflow: Erivaldo Gelson da Rocha João
+Apreesentação: Tomaz e Eduardo Assumpcao Spinelli
 
-> Apresente a divisão de papéis e tarefas entre os membros do grupo.
->
-> **Links Úteis**:
-> - [11 Passos Essenciais para Implantar Scrum no seu Projeto](https://mindmaster.com.br/scrum-11-passos/)
-> - [Scrum em 9 minutos](https://www.youtube.com/watch?v=XfvQWnRgxG0)
+
+Todas as etapas do processo de design thinking foram feitas por todo o grupo em conjunto.
 
 
 ## Ferramentas
