@@ -1,21 +1,22 @@
 # Informações do Projeto
 `TÍTULO DO PROJETO`  
 
-......  COLOQUE AQUI O SEU TEXTO ......
+WIDGET PARA A ACESSIBILIDADE DE IDOSOS
 
 `CURSO` 
 
-......  COLOQUE AQUI O SEU TEXTO ......
+CIÊNCIAS DA COMPUTAÇÃO
 
 ## Participantes
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Inclua a lista dos membros da equipe com seus nomes completos.
->
 > Os membros do grupo são: 
-> - Fulano da Silva
-> - Ciclano Albuquerque
+> 
+> - Rafael Ganascini de Moura
+> - Diego Pereira Maia
+> - Tomás
+> - Erivaldo
+> - Eduardo Spinelli
+
 
 # Estrutura do Documento
 
@@ -56,7 +57,7 @@
 
 ## Problema
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Na sociedade atual e com o grande avanço nas tecnologias, está cada vez mais difícil
 
 > Nesse momento você deve apresentar o problema que a sua aplicação deve
 > resolver. No entanto, não é a hora de comentar sobre a aplicação.
