@@ -91,6 +91,7 @@ Nosso público alvo serão, principalemnte, os idosos, porém, outros grupos com
 > 
 > ![Exemplo da Proposta de Valor](images/idosapv.png)
 
+
 > **MÉDICO**
 > 
 > ![Exemplo de Persona](images/medico.png)
@@ -99,6 +100,7 @@ Nosso público alvo serão, principalemnte, os idosos, porém, outros grupos com
 > **Proposta de Valor**
 > 
 > ![Exemplo da Proposta de Valor](images/medicopv.png)
+
 
 > **CUIDADOR**
 > 
