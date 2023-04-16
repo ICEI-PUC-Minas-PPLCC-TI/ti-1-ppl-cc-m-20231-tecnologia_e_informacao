@@ -14,7 +14,7 @@ CIÊNCIAS DA COMPUTAÇÃO
 > - Rafael Ganascini de Moura
 > - Diego Pereira Maia
 > - Tomás
-> - Erivaldo
+> - Erivaldo Gelson da Rocha João
 > - Eduardo Spinelli
 
 
@@ -156,12 +156,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 # Projeto de Interface
 
-......  COLOQUE AQUI O SEU TEXTO DE INTRODUÇÃO ......
-
-> Apresente as principais interfaces da solução. Discuta como 
-> foram elaboradas de forma a atender os requisitos funcionais, não
-> funcionais e histórias de usuário abordados nas [Especificações do
-> Projeto](#especificações-do-projeto).
+O app terá uma tela inicial simples, onde a partir dela o usuário deve adicionar várias funcionalidades ao seu app, tornando-o personalizável de acordo com preferências e necessidades. Dentre estas funcionalidades teremos os requisitos funcionais mencionados anteriormente.
 
 ## User Flow
 
@@ -191,23 +186,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 # Metodologia
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Nesta parte do documento, você deve apresentar a metodologia 
-> adotada pelo grupo, descrevendo o processo de trabalho baseado nas metodologias ágeis, 
-> a divisão de papéis e tarefas, as ferramentas empregadas e como foi realizada a
-> gestão de configuração do projeto via GitHub.
->
-> Coloque detalhes sobre o processo de Design Thinking e a implementação do Framework Scrum seguido
-> pelo grupo. O grupo poderá fazer uso de ferramentas on-line para acompanhar
-> o andamento do projeto, a execução das tarefas e o status de desenvolvimento
-> da solução.
-> 
-> **Links Úteis**:
-> - [Tutorial Trello](https://trello.com/b/8AygzjUA/tutorial-trello)
-> - [Gestão ágil de projetos com o Trello](https://www.youtube.com/watch?v=1o9BOMAKBRE)
-> - [Gerência de projetos - Trello com Scrum](https://www.youtube.com/watch?v=DHLA8X_ujwo)
-> - [Tutorial Slack](https://slack.com/intl/en-br/)
+A metodologia utilizada foi o processo de design thinking, onde primeiramente foi realizada a matriz de alinhamento CSD e o mapa de stakeholders. A matriz foi realizada para que futuramente pesquisemos mais afundo sobre nossas dúvidas, suposições e certezas sobre o assunto. O mapa de stakeholders foi feito para vizualizar melhor o público alvo do projeto. Após isso foi realizada uma entrevista qualitativa para saber melhor quais pontos deveriam ser abordados e quais funcionalidades deveriam ser implementadas. A última tarefa realizada foi a de criação de personas e propostas de valor apra cada uma, onde foi possível definir com mais clareza as funcionalidades que serão implementadas no produto final.
 
 ## Divisão de Papéis
 
