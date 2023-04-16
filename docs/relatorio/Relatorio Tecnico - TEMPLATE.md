@@ -201,8 +201,6 @@ Todas as etapas do processo de design thinking foram feitas por todo o grupo em 
 
 ## Ferramentas
 
-......  COLOQUE AQUI O SEU TEXTO - SIGA O EXEMPLO DA TABELA ABAIXO  ......
-
 | Ambiente  | Plataforma              |Link de Acesso |
 |-----------|-------------------------|---------------|
 |Processo de Design Thinkgin  | Miro | https://miro.com/app/board/uXjVMYDaO0I=/ | 
