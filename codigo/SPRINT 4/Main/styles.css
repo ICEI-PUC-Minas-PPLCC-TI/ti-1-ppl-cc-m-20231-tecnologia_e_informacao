@@ -37,7 +37,7 @@ body{
     gap: 15px;
     grid-template-columns: 240px 240px 240px 240px 240px;
     grid-template-rows: 320px;
-    column-gap: 10px;
+    column-gap: 15px;
     row-gap: 10px;
 }
 
@@ -49,7 +49,14 @@ body{
     border: 2px solid black;
     border-radius: 10px;
     background-color: #536473;
-    box-shadow: 2px 1px 1px black;
+    box-shadow:
+  3.4px 2.3px 2.2px rgba(0, 0, 0, 0.28),
+  8.2px 5.5px 5.2px rgba(0, 0, 0, 0.169),
+  15.4px 10.4px 9.8px rgba(0, 0, 0, 0.153),
+  27.5px 18.5px 17.4px rgba(0, 0, 0, 0.149),
+  51.4px 34.7px 32.6px rgba(0, 0, 0, 0.144),
+  123px 83px 78px rgba(0, 0, 0, 0.127)
+;
 }
 
 #footer{
@@ -86,6 +93,7 @@ img{
 }
 
 #texto{
+
     display: flex;
     justify-content: center;
     margin-top: 100px;

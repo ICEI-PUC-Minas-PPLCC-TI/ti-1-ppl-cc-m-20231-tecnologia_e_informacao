@@ -3,19 +3,19 @@
 const getBanco = () => JSON.parse(localStorage.getItem('todoList')) ?? [];
 const setBanco = (banco) => localStorage.setItem('todoList', JSON.stringify(banco));
 
-const criarItem = (tarefa, status, preco, indice) => {
+const criarItem = (produto, status, preco, indice) => {
     const item = document.createElement('label');
     item.classList.add('todo__item');
     item.innerHTML = `
     <input type="checkbox" ${status} data-indice=${indice}>
-    <div>${tarefa}</div>
+    <div>${produto}</div>
     <div>R$${preco}</div>
     <input type="button" value="X" data-indice=${indice}>
     `;
     document.getElementById('todoList').appendChild(item);
 }
 
-const limparTarefas = () => {
+const limparprodutos = () => {
     const todoList = document.getElementById('todoList');
     while (todoList.firstChild) {
         todoList.removeChild(todoList.lastChild);
@@ -23,9 +23,9 @@ const limparTarefas = () => {
 }
 
 const atualizarTela = () => {
-    limparTarefas();
+    limparprodutos();
     const banco = getBanco();
-    banco.forEach((item, indice) => criarItem(item.tarefa, item.status, item.preco, indice));
+    banco.forEach((item, indice) => criarItem(item.produto, item.status, item.preco, indice));
 }
 
 const inserirItem = (evento) => {
@@ -35,7 +35,7 @@ const inserirItem = (evento) => {
         const banco = getBanco();
         const novoPreco = prompt('Digite o preço:');
         if (novoPreco !== null) {
-            banco.push({ 'tarefa': texto, 'status': '', 'preco': novoPreco });
+            banco.push({ 'produto': texto, 'status': '', 'preco': novoPreco });
             setBanco(banco);
             atualizarTela();
             evento.target.value = '';
